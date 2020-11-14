@@ -12,11 +12,11 @@ i learned how to create function and call the function  and to retrun the result
 
 - HTML5
 - CSS3
-- Font Awesome
+- JavaScript
 
 ## Live Demo
 
-[Live Demo Link](https://dennis-codes.github.io/Rock-Paper-Scissors/)
+[Live Demo Link](https://Rock-Paper-Scissor.denniscodes.repl.co)
 
 ## Author
 
