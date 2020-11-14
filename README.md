@@ -1,6 +1,6 @@
 # Rock-Paper-Scissors
 this is a simple GAME created using JavaScript, HTML and CSS to emulate the childhood game of rock, paper,scissors
-i learned how to create function and call the function  and to retrun the result of the functiion called ..i also learned how to loop over code to repeat function calls and how to Use prompt() to get input from the user
+i learned how to create and call the functions  and to retrun the result of the functiion called ..i also learned how to loop over code to repeat function calls and how to Use prompt() to get input from the user
 
 
 
