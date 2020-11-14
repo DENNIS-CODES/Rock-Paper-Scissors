@@ -24,7 +24,7 @@ i learned how to create function and call the function  and to retrun the result
 
 - GitHub: [@DENNIS-CODES](https://github.com/DENNIS-CODES)
 - Twitter: [@DENNISM44052159](https://twitter.com/DENNISM44052159)
-- Linkedin: [@Dennis-mwangi](https://www.linkedin.com/in/dennis-mwangi-14b7a01b2/)
+- Linkedin: [@Dennis-Mwangi](https://www.linkedin.com/in/dennis-mwangi-14b7a01b2/)
 
 
 ## 🤝 Contributing
